@@ -1,0 +1,31 @@
+nav{
+
+  ul{
+    background: red;
+  }
+  li{
+    color:green;
+  }
+
+}
+
+p{
+  font:{
+    size: 15px;
+  }
+}
+
+
+$bgColor:yellow;
+
+
+/* Use the variables */
+h1 {
+  background-color: $bgColor;
+}
+p{
+  $bgcol:green;
+  $size: 15px;
+  background: $bgcol;
+  font-size: $size;
+}

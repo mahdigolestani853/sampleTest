@@ -1,0 +1,17 @@
+nav ul {
+  background: red; }
+nav li {
+  color: green; }
+
+p {
+  font-size: 15px; }
+
+/* Use the variables */
+h1 {
+  background-color: yellow; }
+
+p {
+  background: green;
+  font-size: 15px; }
+
+/*# sourceMappingURL=main.css.map */
